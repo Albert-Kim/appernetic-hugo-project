@@ -1,11 +1,11 @@
 # hostname (and path) to the root eg. http://spf13.com/
-baseurl = "http://www.example.com"
+baseurl = "https://albert-kim.github.io/"
 
 # Site title
-title = "sitename"
+title = "hello"
 
 # Copyright
-copyright = "(c) 2015 yourname."
+copyright = "(c) 2015 albert-kim."
 
 # Language
 languageCode = "en-EN"
